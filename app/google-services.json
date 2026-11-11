@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "815112690547",
-    "project_id": "ambulance-54256",
-    "storage_bucket": "ambulance-54256.firebasestorage.app"
+    "project_number": "320742095342",
+    "project_id": "ambulance-5d459",
+    "storage_bucket": "ambulance-5d459.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:815112690547:android:457466df342168866fc306",
+        "mobilesdk_app_id": "1:320742095342:android:69563279b2fd526d1cf6ff",
         "android_client_info": {
           "package_name": "com.example.mysignupapp"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA5FGlZKI4TyxJ2xelYqIJzp6qhlmpezuk"
+          "current_key": "AIzaSyD02ZYiX0h_9dKBOTc18XF33DFSg4UHBXM"
         }
       ],
       "services": {
